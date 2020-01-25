@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">librarydbs</string>
+
+    <string-array name="bus_list">
+        <item>13 No</item>
+        <item>6 No 1</item>
+        <item>6 No 2</item>
+        <item>7 No</item>
+        <item>8 No</item>
+        <item>Achim Paribahan</item>
+        <item>Agradut-Boishakhi</item>
+        <item>Airport Bangabandhu Avenue</item>
+        <item>Akash Paribahan</item>
+        <item>Akik Paribahan</item>
+        <item>Al Madina Plus One</item>
+        <item>Al Makka Transport</item>
+        <item>Alif Enterprise 1</item>
+        <item>Alif Enterprise 2</item>
+        <item>Alif Enterprise 3</item>
+        <item>Alif Enterprise 4</item>
+        <item>Alike</item>
+        <item>Ark Transport</item>
+        <item>Ashirbad Paribahan</item>
+        <item>Ashulia Classic</item>
+        <item>Asmani Paribahan</item>
+        <item>Ayat</item>
+        <item>Azmery Glory</item>
+        <item>BRTC 1</item>
+        <item>BRTC 2</item>
+        <item>BRTC 3</item>
+        <item>BRTC 4</item>
+        <item>BRTC 5</item>
+        <item>BRTC 6</item>
+        <item>BRTC 7</item>
+        <item>BRTC 8</item>
+        <item>BRTC 9</item>
+        <item>Bahon</item>
+        <item>Balaka Paribahan</item>
+        <item>Basumati</item>
+        <item>Basumati Transport</item>
+        <item>Best Shatabdi (AC)</item>
+        <item>Best Transport</item>
+        <item>Bhuiyan Paribahan</item>
+        <item>Bihanga</item>
+        <item>Bihanga Paribahan 1</item>
+        <item>Bihanga Paribahan 2</item>
+        <item>Bikalpa Auto Service</item>
+        <item>Bikalpa City Super Service</item>
+        <item>Bikash Paribahan</item>
+        <item>Bondhu Paribahan</item>
+        <item>Brothers</item>
+        <item>Cantonment Bus Service</item>
+        <item>Cantonment Mini Service</item>
+        <item>Champion</item>
+        <item>City Link</item>
+        <item>D Link</item>
+        <item>D One Transport</item>
+        <item>Desh Bangla</item>
+        <item>Dewan</item>
+        <item>Dhaka Chaka 1</item>
+        <item>Dhaka Chaka 2</item>
+        <item>Dipon</item>
+        <item>Dishari Paribahan</item>
+        <item>ETC Transport</item>
+        <item>FTCL</item>
+        <item>First Ten</item>
+        <item>Gazipur Paribahan</item>
+        <item>Grameen</item>
+        <item>Grameen Shubheccha</item>
+        <item>Green Anabil</item>
+        <item>Green Dhaka (AC)</item>
+        <item>Gulshan Chaka</item>
+        <item>Haji Transport</item>
+        <item>Himachol</item>
+        <item>Itihas Paribahan</item>
+        <item>JM Super Paribahan</item>
+        <item>Janjabil</item>
+        <item>Kanak</item>
+        <item>Khajababa Paribahan</item>
+        <item>Kironmala Paribahan</item>
+        <item>Labbaik</item>
+        <item>Lal Sobuj (AC)</item>
+        <item>Lams Paribahan</item>
+        <item>MM Lovely</item>
+        <item>MTCL 2</item>
+        <item>Malancha Transport</item>
+        <item>Manjil Express</item>
+        <item>Meghla Transport</item>
+        <item>Meshkat Transport</item>
+        <item>Midline</item>
+        <item>Mirpur Link</item>
+        <item>Mirpur Metro Services</item>
+        <item>Mirpur United Service</item>
+        <item>Modhumoti Paribahan</item>
+        <item>Mohona</item>
+        <item>Moitri</item>
+        <item>Moumita Transport</item>
+        <item>Nilachol</item>
+        <item>Nobokoli Paribahan</item>
+        <item>Nur E Makka Paribahan</item>
+        <item>Omama International</item>
+        <item>One Transport</item>
+        <item>Pallabi Super Service</item>
+        <item>Paristhan Paribahan</item>
+        <item>Power Paribahan</item>
+        <item>Prattay</item>
+        <item>Pravati Banasree Paribahan</item>
+        <item>Prochesta</item>
+        <item>Projapoti Paribahan</item>
+        <item>Purbachal Logistics &amp; Transport Ltd</item>
+        <item>Rabrab Paribahan</item>
+        <item>Raida</item>
+        <item>Raja City</item>
+        <item>Rajanigandha</item>
+        <item>Rajdhani Super Service</item>
+        <item>Ramzan</item>
+        <item>Runway Express</item>
+        <item>Rupa Paribahan</item>
+        <item>Safety Druti</item>
+        <item>Salsabil</item>
+        <item>Savar Paribahan</item>
+        <item>Shadhin</item>
+        <item>Shadhin Express</item>
+        <item>Shahria Enterprise</item>
+        <item>Shatabdi Transport</item>
+        <item>Shikhar Paribahan</item>
+        <item>Shikor Paribahan</item>
+        <item>Shubheccha</item>
+        <item>Shuvojatra</item>
+        <item>Skyline</item>
+        <item>Smart Winner</item>
+        <item>Somota Paribahan</item>
+        <item>Somoy</item>
+        <item>Somoy Niyantran</item>
+        <item>Talukdar</item>
+        <item>Tanjil Paribahan</item>
+        <item>Taranga Plus</item>
+        <item>Tetuliya Paribahan</item>
+        <item>The New Vision</item>
+        <item>Thikana</item>
+        <item>Thikana Express</item>
+        <item>Trans Silva</item>
+        <item>Trust Transport Services 1</item>
+        <item>Trust Transport Services 2</item>
+        <item>Trust Transport Services 3</item>
+        <item>Trust Transport Services (AC)</item>
+        <item>Turag</item>
+        <item>VIP 27</item>
+        <item>Victor Classic</item>
+        <item>Victor Paribahan</item>
+        <item>Welcome</item>
+    </string-array>
+</resources>
